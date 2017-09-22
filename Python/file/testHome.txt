@@ -1,0 +1,16 @@
+
+
+
+
+
+
+/Users/cd13337/iPhone_TravelClient/ViewControllers/Selftrip/ViewControllers/Product/List/DestinationList/View/SelftripListBottomNoneResult.xib
+/Users/cd13337/iPhone_TravelClient/ViewControllers/Selftrip/ViewControllers/Product/List/DestinationList/View/FilterView/SelftripProductListCityFilter.xib
+/Users/cd13337/iPhone_TravelClient/ViewControllers/Selftrip/ViewControllers/Product/List/DestinationList/View/SelfTripTravleDestinationSiftCell.xib
+/Users/cd13337/iPhone_TravelClient/ViewControllers/Selftrip/ViewControllers/Product/List/DestinationList/View/FilterView/SelftripHeaderFooterReusableView.xib
+/Users/cd13337/iPhone_TravelClient/ViewControllers/Selftrip/ViewControllers/Product/List/DestinationList/View/SelftripListBottomNoneResult.xib
+/Users/cd13337/iPhone_TravelClient/ViewControllers/Selftrip/ViewControllers/Product/Detail/Cells/SelftripSupRedPacketCell.xib
+/Users/cd13337/iPhone_TravelClient/ViewControllers/Selftrip/ViewControllers/Product/List/DestinationList/View/FilterView/SelftripProductListCityFilter.xib
+/Users/cd13337/iPhone_TravelClient/ViewControllers/Selftrip/ViewControllers/Product/List/DestinationList/View/SelfTripTravleDestinationSiftCell.xib
+/Users/cd13337/iPhone_TravelClient/ViewControllers/Selftrip/ViewControllers/Product/List/DestinationList/View/FilterView/SelftripHeaderFooterReusableView.xib
+/Users/cd13337/iPhone_TravelClient/ViewControllers/Selftrip/ViewControllers/Product/Order/PreBook/Cell/SelftripPreBookRoomTableViewCell.xib
